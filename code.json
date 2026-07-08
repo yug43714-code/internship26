@@ -1,0 +1,19 @@
+ {
+  "company": "OpenAI",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "role": "Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "role": "Designer"
+    }
+  ],
+  "location": {
+    "city": "San Francisco",
+    "country": "USA"
+  }
+}  
